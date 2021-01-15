@@ -1,5 +1,6 @@
+let e = document.getElementsByClassName("adsbox");
+
 function adBlockDetector() {
-  let e = document.getElementsByClassName("adsbox");
   if (e === 0) {
     expect(adBlockDetector()).toBe(true);
   } else {
