@@ -5,8 +5,6 @@ _A simple adBlock detector extension for any open tab._
 
 ## Instructions
 
-- ### Basic Task - AdBlock Detector
-
 1.  Clone or download the repository
 
     `git clone git@github.com:Balazs-D/adblock-detector.git`
@@ -24,8 +22,6 @@ _A simple adBlock detector extension for any open tab._
         - Click on Load Temporary Add-on...
 
         - Select the manifest.json in the AdBlocker order
-
-- ### Bonus 1 - Unit Test
 
 2.  Get into the directory
 
