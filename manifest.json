@@ -1,5 +1,5 @@
 {
-  "name": "AD-Blocker-Detector",
+  "name": "AD-Block-Detector",
   "version": "1.0",
   "description": "Simple detector",
   "permissions": ["activeTab","<all_urls>"],  

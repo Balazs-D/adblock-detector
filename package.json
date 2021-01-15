@@ -1,0 +1,23 @@
+{
+  "name": "adblock-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "content-script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balazs-D/adblock-detector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balazs-D/adblock-detector/issues"
+  },
+  "homepage": "https://github.com/Balazs-D/adblock-detector#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
