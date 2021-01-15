@@ -23,26 +23,22 @@ _A simple adBlock detector extension for any open tab._
 
         - Select the manifest.json in the AdBlocker order
 
-2.  Get into the directory
-
-    `cd elucidate-challenge`
-
-3.  Install dependencies using (**Only for testing**)
+2.  Install Jest within the extension directory(**Only for testing**)
 
     `npm install --save-dev jest`
 
-4.  Start test
+3.  Start test
 
     `npm test``
 
-5.  Start JSON Server ( **Only for saving detected page loads**)
+4.  Install JSON Server ( **Only for saving detected page loads**)
 
     `npm install -g json-server`
 
-6.  Start JSON Server
+5.  Start JSON Server
 
     `json-server --watch db.json`
 
-7.  Open JSON Server in the browser
+6.  Open JSON Server in the browser
 
     http://localhost:3000/logs
