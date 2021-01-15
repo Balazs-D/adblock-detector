@@ -16,13 +16,13 @@ _A simple adBlock detector extension for any open tab._
 
     In Chrome:
 
-        - Open Chrome extensions page ( chrome://extensions/ )
+        - Open Chrome extensions page in the browser ( chrome://extensions/ )
 
         - Click on Load unpacked and select the AdBlock Detector order
 
     In Firefox
 
-        - Open Firefox developer extenison page ( about:debugging#/runtime/this-firefox )
+        - Open Firefox developer extension page in tge browser ( about:debugging#/runtime/this-firefox )
 
         - Click on Load Temporary Add-on...
 
