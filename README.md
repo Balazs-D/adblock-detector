@@ -22,7 +22,7 @@ _A simple adBlock detector extension for any open tab._
 
     In Firefox
 
-        - Open Firefox developer extension page in tge browser ( about:debugging#/runtime/this-firefox )
+        - Open Firefox developer extension page in the browser ( about:debugging#/runtime/this-firefox )
 
         - Click on Load Temporary Add-on...
 
@@ -30,7 +30,7 @@ _A simple adBlock detector extension for any open tab._
 
 <br></br>
 
-- ### Bonus Task 1 - Unit Test
+- ### Bonus 1 - Unit Test
   <br></br>
 
 2.  Get into the directory
@@ -47,7 +47,7 @@ _A simple adBlock detector extension for any open tab._
 
 <br></br>
 
-- ### Bonus Task 2 - Saving the detected page load sessions
+- ### Bonus 2 - Saving the detected page load sessions
   <br></br>
 
 5. Start JSON Server
