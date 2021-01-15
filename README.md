@@ -5,10 +5,7 @@ _A simple adBlock detector extension for any open tab._
 
 ## Instructions
 
-<br></br>
-
 - ### Basic Task - AdBlock Detector
-  <br></br>
 
 1.  Clone or download the repository
 
@@ -28,16 +25,13 @@ _A simple adBlock detector extension for any open tab._
 
         - Select the manifest.json in the AdBlocker order
 
-<br></br>
-
 - ### Bonus 1 - Unit Test
-  <br></br>
 
 2.  Get into the directory
 
     `cd elucidate-challenge`
 
-3.  Install dependencies using
+3.  Install dependencies using (**Only for testing**)
 
     `npm install --save-dev jest`
 
@@ -45,19 +39,14 @@ _A simple adBlock detector extension for any open tab._
 
     `npm test``
 
-<br></br>
+5.  Start JSON Server ( **Only for saving detected page loads**)
 
-- ### Bonus 2 - Saving the detected page load sessions
-  <br></br>
+    `npm install -g json-server`
 
-5. Start JSON Server
+6.  Start JSON Server
 
-   `npm install -g json-server`
+    `json-server --watch db.json`
 
-6. Start JSON Server
+7.  Open JSON Server in the browser
 
-   `json-server --watch db.json`
-
-7. Open JSON Server in the browser
-
-   http://localhost:3000/logs
+    http://localhost:3000/logs
