@@ -2,6 +2,9 @@
   "name": "AdBlock-Detector",
   "version": "1.0",
   "description": "Simple detector",
+  "icons": {
+    "48": "ad-blocker.png"
+  },
   "permissions": ["activeTab","<all_urls>"],  
   "content_scripts": [
     {
