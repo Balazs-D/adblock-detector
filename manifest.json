@@ -1,9 +1,8 @@
 {
-  "name": "AD-Block-Detector",
+  "name": "AdBlock-Detector",
   "version": "1.0",
   "description": "Simple detector",
   "permissions": ["activeTab","<all_urls>"],  
-
   "content_scripts": [
     {
       "matches": ["http://*/*", "https://*/*"],
